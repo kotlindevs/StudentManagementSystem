@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>
-            Student Management System
+            Student Management System ~
         </title>
         <meta name="viewreport" content="width=device-width, initial-scale=1">
     </head>
